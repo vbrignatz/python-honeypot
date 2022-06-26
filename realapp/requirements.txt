@@ -1,0 +1,4 @@
+python-time
+fastapi==0.78.0
+uvicorn==0.17.6
+python-multipart
